@@ -1,0 +1,6 @@
+=============================
+django-disjointed-permissions
+=============================
+
+The purpose of this pluggable django application is to manage
+permissions in projects where those are disjointed.
